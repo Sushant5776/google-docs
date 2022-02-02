@@ -1,6 +1,6 @@
 # Google Docs
 
-This is a educational purpose Google Docs Clone.
+This is an educational purpose Google Docs Clone.
 
 ## Technologies In Use
 
